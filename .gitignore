@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 ﻿.venv/
+=======
+.venv/
+>>>>>>> 499765b805ad6871cb4c4dcf9fd6afebb4411882
 __pycache__/
 *.py[cod]
 data/
 models/
+<<<<<<< HEAD
 .env
 .streamlit/secrets.toml
+=======
+.streamlit/secrets.toml
+.env
+>>>>>>> 499765b805ad6871cb4c4dcf9fd6afebb4411882
